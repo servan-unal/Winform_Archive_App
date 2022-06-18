@@ -1,0 +1,15 @@
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\bin\Debug\PersonAuthentication.exe.config
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\bin\Debug\PersonAuthentication.exe
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\bin\Debug\PersonAuthentication.pdb
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\obj\Debug\PersonAuthentication.csproj.AssemblyReference.cache
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\obj\Debug\PersonAuthentication.Form1.resources
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\obj\Debug\PersonAuthentication.Properties.Resources.resources
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\obj\Debug\PersonAuthentication.csproj.GenerateResource.cache
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\obj\Debug\PersonAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\obj\Debug\PersonAuthentication.exe
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\obj\Debug\PersonAuthentication.pdb
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\obj\Debug\PersonAuthentication.FormSignUp.resources
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\bin\Debug\ArchiveProject.exe
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\bin\Debug\ArchiveProject.pdb
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\bin\Debug\ArchiveProject.exe.config
+C:\Users\savaş\Desktop\ArchiveProject\PersonAuthentication\obj\Debug\PersonAuthentication.csproj.CopyComplete
